@@ -32,23 +32,20 @@
 
 ---
 
+---
+
 ## 📊 GitHub Analytics
 
-### GitHub Stats & Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smritipoudel98&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smritipoudel98&layout=compact&theme=tokyonight" width="45%" />
-</p>
+### 📈 Stats & Top Languages
+![Smriti's Stats](https://github-readme-stats.vercel.app/api?username=smritipoudel98&show_icons=true&theme=tokyonight&count_private=true)
 
-### GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=smritipoudel98&theme=tokyonight" width="100%" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smritipoudel98&layout=compact&theme=tokyonight)
 
-### Trophy Room
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smritipoudel98&theme=tokyonight" />
-</p>
+### 🏆 Trophy Room
+![Trophies](https://github-profile-trophy.vercel.app/?username=smritipoudel98&theme=tokyonight)
+
+### 🔥 GitHub Streak
+![Streak](https://streak-stats.demolab.com?user=smritipoudel98&theme=tokyonight)
 
 ---
 
