@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Smriti Poudel</h1>
 <h3 align="center">Odoo Developer at Precision Pyramid | ERP & Backend Developer from Nepal 🇳🇵</h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Odoo+Developer;Python+Developer;ERP+Developer;Docker+Enthusiast&center=true&width=500&height=45">
+</p>
+
 ---
 
 ## 👩‍💻 About Me
@@ -46,7 +50,7 @@
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smritipoudel98&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=smritipoudel98&theme=tokyonight)
 
 ---
 
@@ -58,7 +62,7 @@
 
 # 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=smritipoudel98&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=smritipoudel98&theme=tokyonight)
 
 ---
 
@@ -80,5 +84,13 @@
 
 # 🌐 Connect With Me
 
-- 📧 Email: **smritipoudel0607@gmail.com**
+- 📧 Email: **smritipoudel0607@gmail.com**  
 - 💻 GitHub: https://github.com/smritipoudel98
+
+---
+
+# 👀 Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=smritipoudel98&label=Profile%20views&color=0e75b6&style=flat)
+
+⭐ *Thanks for visiting my profile!*
